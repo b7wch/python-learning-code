@@ -1,2 +1,2 @@
-# python-pattern
-some kinds for python
+# Python Pattern
+some patterns described by python
