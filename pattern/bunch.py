@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*- 
 # 2017/3/23
-# mail:912493785@qq.com
+# mail:yangnianqiu@gmail.com
 
 
 class Bunch(dict):
