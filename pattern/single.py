@@ -31,3 +31,4 @@ if __name__ == '__main__':
     b = SingleImpl()
     c = SingleImpl()
     print id(a), id(b), id(c)
+    print b.__dict__
