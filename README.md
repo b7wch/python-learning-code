@@ -1,2 +1,2 @@
-# Python example code
+# Python Pattern
 some patterns described by python
